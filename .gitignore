@@ -1,0 +1,3 @@
+# The PDFs here may be private.
+*.pdf
+.ipynb_checkpoints
